@@ -6,7 +6,8 @@
 	"require": {
 		"laravel/framework": "4.2.*",
 		"google/apiclient": "1.0.*@dev",
-		"barryvdh/laravel-debugbar": "1.*"
+		"barryvdh/laravel-debugbar": "1.*",
+		"way/generators": "~2.0"
 	},
 	"autoload": {
 		"classmap": [
