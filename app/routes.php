@@ -15,3 +15,8 @@ Route::get('/', function()
 {
 	return View::make('hello');
 });
+
+Route::get('drive-test', function()
+{
+  return View::make('drive-test');
+});
